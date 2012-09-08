@@ -1,6 +1,6 @@
-first line in txt file
+first Line in txt file
 
 second line in the file
 
-third line in the file
+    third line in the file   
 
