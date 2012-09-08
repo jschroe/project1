@@ -1,0 +1,6 @@
+first line in txt file
+
+second line in the file
+
+third line in the file
+
